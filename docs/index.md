@@ -1,1 +1,1 @@
-To test public repo in Global-Release-Tooling test org
+To test public repo in Global-Release-Tooling Test Org
